@@ -8,7 +8,7 @@ Software Eng
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [1213089@dtu.edu.eg](mailto:1213089@dtu.edu.eg)
-* 🚀  I'm currently working on [Alx-frica Student and delta technology university](http://alx-africa.com)
+* 🚀  I'm currently working on [Alx-frica Student and delta technology university](http://alxafrica.com)
 * 🧠  I'm learning Software engineer
 * 🤝  I'm open to collaborating on Backend development ,frontend development , C++ ,C , JAVA ,and so on
 
