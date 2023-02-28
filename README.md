@@ -3,8 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Eng
 ------------
-
-السلام عليكم ورحمه الله وبركاته❤️ IT'S EASY IF YOU TRY ....❤️ Hi this is "Wahid" Delta technology University student "" EGYPT "" I'm always developing My self , because The hard time makes a good life . I'm interested for Computer vision and Machine learning features, Neural networks,and brine signal processing --EEG. Currently I've experiences in a different thing For example C ,C++, python and Java programming . Also I can build a different types of websites by using HTML,CSS, JavaScript and PHP I am currently developing myself in the field Software engineer to get more experiences and improve my logic and How can I solve any problem I'll continue my path to ML Eng and computer vision if GOD allow that .
+السلام عليكم ورحمه الله وبركاتة❤️
+IT'S EASY IF YOU TRY ....❤️
+Hi this is "Wahid" Delta technology University student "" EGYPT "" I'm always developing My self , because The hard time makes a good life . I'm interested for Computer vision and Machine learning features, Neural networks,and brine signal processing --EEG. Currently I've experiences in a different thing For example C ,C++, python and Java programming . Also I can build a different types of websites by using HTML,CSS, JavaScript and PHP I am currently developing myself in the field Software engineer to get more experiences and improve my logic and How can I solve any problem I'll continue my path to ML Eng and computer vision if GOD allow that .
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [1213089@dtu.edu.eg](mailto:1213089@dtu.edu.eg)
