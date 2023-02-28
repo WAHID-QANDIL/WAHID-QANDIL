@@ -30,6 +30,7 @@ src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-t
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/WAHID-QANDIL/count.svg" />
 </p>
+<iframe src="https://giphy.com/embed/2WdHaCzmqSkrwmIGWP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nbc-funny-lol-2WdHaCzmqSkrwmIGWP">via GIPHY</a></p>
 
 ### Skills
 
