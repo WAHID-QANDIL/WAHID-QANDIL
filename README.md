@@ -13,6 +13,12 @@ Hi this is "Wahid" Delta technology University student "" EGYPT "" I'm always de
 * 🧠  I'm learning Software engineer
 * 🤝  I'm open to collaborating on Backend development ,frontend development , C++ ,C , JAVA ,and so on
 
+
+
+
+https://media.giphy.com/media/kNA1sKSqxgFDq/giphy.gif
+
+
 <a href="https://www.github.com/WAHID-QANDIL" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/WAHID-QANDIL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/WAHID_QANDIL" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
