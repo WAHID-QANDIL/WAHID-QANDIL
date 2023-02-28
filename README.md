@@ -34,7 +34,7 @@ src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-t
 
 
 
-![image](https://user-images.githubusercontent.com/103429590/221971741-abcda5c6-5c5e-46a5-850a-e920b062cd1b.png)
+![image](https://user-images.githubusercontent.com/103429590/221971741-abcda5c6-5c5e-46a5-850a-e920b062cd1b.gif)
 
 ### Skills
 
