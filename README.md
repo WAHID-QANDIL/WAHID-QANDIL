@@ -31,9 +31,8 @@ src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-t
 </p>
 
 
-<div style="text-alegn:center">
-![image](https://media.giphy.com/media/2WdHaCzmqSkrwmIGWP/giphy.gif)
-</div>
+
+![image style="text-alegn:center"](https://media.giphy.com/media/2WdHaCzmqSkrwmIGWP/giphy.gif)
 
 ### Skills
 
