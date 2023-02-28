@@ -12,6 +12,11 @@ Hi this is "Wahid" Delta technology University student "" EGYPT "" I'm always de
 * 🚀  I'm currently working on [Alx-frica Student and delta technology university](http://alxafrica.com)
 * 🧠  I'm learning Software engineer
 * 🤝  I'm open to collaborating on Backend development ,frontend development , C++ ,C , JAVA ,and so on
+*
+*
+*
+
+
 
 
 
