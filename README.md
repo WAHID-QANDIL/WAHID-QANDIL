@@ -31,8 +31,7 @@ src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-t
 /></a>
 
 
-![image](https://user-images.githubusercontent.com/103429590/222479214-e48eb902-936d-4fab-9d77-c2ff8c9c09e8.gif)
-
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/103429590/222480317-6d5e4542-4e47-4c41-960a-3099f0097f72.gif)
 
 
 
