@@ -7,6 +7,13 @@ Software Eng
 IT'S EASY IF YOU TRY ....❤️
 Hi this is "Wahid" Delta technology University student "" EGYPT "" I'm always developing My self , because The hard time makes a good life . I'm interested for Computer vision and Machine learning features, Neural networks,and brine signal processing --EEG. Currently I've experiences in a different thing like C ,C++, python and Java programming . Also I can build a different types of websites by using HTML,CSS, JavaScript , SQL, MY SQL and PHP I am currently developing myself in the field Software engineer to get more experiences and improve my logic and How can I solve any problem I'll continue my path to computer vision if GOD allow that .
 
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/103429590/222480699-30bc1b97-8ec8-4744-be7d-05242cd21556.gif)
+
+
+
+
+
+
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [1213089@dtu.edu.eg](mailto:1213089@dtu.edu.eg)
 * 🚀  I'm currently working on [Alx-frica Student and delta technology university](http://alxafrica.com)
@@ -31,7 +38,6 @@ src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-t
 /></a>
 
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/103429590/222480317-6d5e4542-4e47-4c41-960a-3099f0097f72.gif)
 
 
 
