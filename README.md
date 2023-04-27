@@ -22,11 +22,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on [Alx-frica Student and delta technology university](http://alxafrica.com)
 * 🧠  I'm learning Software engineer
 * 🤝  I'm open to collaborating on Backend development ,frontend development , C++ ,C , JAVA ,and so on
-*
-*
-*
+* 
+```
+#include <iostream>
+#include <string>
+using namespace std;
 
-
+int main() 
+{
+    string s;
+    getline(cin, s);
+    cout << "Hello, " << s;
+    return 0;
+}
+```
 
 
 
