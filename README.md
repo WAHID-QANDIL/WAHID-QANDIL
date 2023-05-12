@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 **IT'S EASY IF YOU TRY ....❤️**
 * Hi this is `Wahid` [Delta technology University](https://dtu.edu.eg/en/home/) student [`EGYPT` ]
 * I'm always developing My self , because The hard time makes a good life . 
-* I'm interested for Computer vision and Machine learning features, Neural networks,and brine signal processing --`EEG`. Currently I've experiences in a different thing like `C` ,`C++`, `python` and `Java programming` . Also I can build a different types of websites by using `HTML`,`CSS`, `JavaScript` , `SQL`, `MY SQL` and `PHP` I am currently developing myself in the field `Software engineer` to get more experiences and improve my logic and How can I solve any problem I'll continue my path to computer vision if GOD allow that .
+* I'm interested for Computer vision and Machine learning features, Neural networks,and brine signal processing --`EEG`. Currently I've experiences in a different thing like `C` ,`C++`, `python` and `Java programming` . Also I can build a different types of websites by using `HTML`,`CSS`, `JavaScript` , `SQL`, `MY SQL` and `PHP` I am currently developing myself in the field `Software engineer` to get more experiences and improve my logic and How can I solve any problem.
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/103429590/222480699-30bc1b97-8ec8-4744-be7d-05242cd21556.gif)
 
