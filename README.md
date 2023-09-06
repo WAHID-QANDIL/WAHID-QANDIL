@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wahid Ali
+Hi \![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wahid Ali
 =================================================================================================================================
 
 ## Software Eng
@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### السلام عليكم ورحمه الله وبركاتة❤️
 **IT'S EASY IF YOU TRY ....❤️**
-* Hi this is `Wahid` [Delta technology University](https://dtu.edu.eg/en/home/) student [`EGYPT` ]
+* Hi this is `Wahid` [Delta technological University](https://dtu.edu.eg/en/home/) student [`EGYPT` ]
 * I'm always developing My self , because The hard time makes a good life . 
 * I'm interested for Computer vision and Machine learning features, Neural networks,and brine signal processing --`EEG`. Currently I've experiences in a different thing like `C` ,`C++`, `python` and `Java programming` . Also I can build a different types of websites by using `HTML`,`CSS`, `JavaScript` , `SQL`, `MY SQL` and `PHP` I am currently developing myself in the field `Software engineer` to get more experiences and improve my logic and How can I solve any problem.
 
