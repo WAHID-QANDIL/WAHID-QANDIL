@@ -12,7 +12,7 @@
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [1213089@dtu.edu.eg](mailto:1213089@dtu.edu.eg)
-* 🚀  I'm currently working on [student](https://dtu.edu.eg/en/home/)
+* 🚀  I'm currently working on [Student at Delta Technological University](https://dtu.edu.eg/en/home/)
 * 🧠  I'm learning Software engineer
 * 🤝  I'm open to collaborating on Backend development ,frontend development , C++ ,C , JAVA ,and so on
 * 
