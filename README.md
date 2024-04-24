@@ -17,7 +17,7 @@
 * 🧠  I'm Mobile App Developer
 * 🤝  I'm open to collaborating on android app development, Backend development, and IOS app development
 ```
-### **The first code that i've write**
+### **The first code that I've write**
 ```
 #include <iostream>
 #include <string>
