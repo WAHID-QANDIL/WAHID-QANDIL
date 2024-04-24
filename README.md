@@ -18,7 +18,7 @@
 * 🤝  I'm open to collaborating on android app development, Backend development, and IOS app development
 ```
 ```
-
+**The first code that i've write**
 ```
 ```
 #include <iostream>
@@ -27,9 +27,7 @@ using namespace std;
 
 int main() 
 {
-    string s;
-    getline(cin, s);
-    cout << "Hello, " << s;
+    cout << "Hello, World" << s;
     return 0;
 }
 ```
