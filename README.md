@@ -1,7 +1,8 @@
 **IT'S EASY IF YOU TRY ....❤️**
-* Hi this is `Wahid` [Delta technological University](https://dtu.edu.eg/en/home/) student [`EGYPT` ]
+* Hi this is `Wahid` **Mobile App Developer**
 * I'm always developing My self , because The hard time makes a good life . 
-* I'm interested for Computer vision and Machine learning features, Neural networks,and brine signal processing --`EEG`. Currently I've experiences in a different thing like `C` ,`C++`, `python` and `Java programming` . Also I can build a different types of websites by using `HTML`,`CSS`, `JavaScript` , `SQL`, `MY SQL` and `PHP` I am currently developing myself in the field `Software engineer` to get more experiences and improve my logic and How can I solve any problem.
+* I'm passonate to built mobile app /Android/IOS I've experiences in a different thing like `C` ,`C++`, `python`, `Kotlin` and `Java programming` . Also I can build a different types of websites by using `HTML`,`CSS`, `JavaScript` , `SQL`, `MY SQL` and `PHP`.
+
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/103429590/222480699-30bc1b97-8ec8-4744-be7d-05242cd21556.gif)
 
@@ -13,9 +14,8 @@
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [Mail](mailto:wahidqandill@gmail.com)
 * 🚀  I'm currently working on [Student at Delta Technological University](https://dtu.edu.eg/en/home/)
-* 🧠  I'm learning Software engineer
-* 🤝  I'm open to collaborating on Backend development ,frontend development , C++ ,C , JAVA ,and so on
-* 
+* 🧠  I'm Mobile App Developer
+* 🤝  I'm open to collaborating on android app development, Backend development, and IOS app development
 ```
 #include <iostream>
 #include <string>
@@ -93,3 +93,4 @@ src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-t
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
