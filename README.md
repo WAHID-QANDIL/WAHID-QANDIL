@@ -2,7 +2,7 @@
 * Hi this is `Wahid` **Mobile App Developer**
 * I'm always developing My self , because The hard time makes a good life . 
 * I'm passonate about building mobile apps /Android/IOS I've experiences in a different technologies, and programming languages like `C` ,`C++`, `python`, `Kotlin`, `SQLite`, `Room database`, `Firebase`, `Corotiuns`, `Android app components`, `REST full API`, `Retrofit`, `Ktor`, `Jetback compose` and `surly Java programming is the favorite one` . Also I can build a different types of websites by using `HTML`,`CSS`, `JavaScript` , `SQL`, `MY SQL` and `PHP`.
-* I have learnt design pattens and app architechture such as `MVC`, `MVP`, `MVVM`, and `MVI` app architechture, in other hand `Strucural patterns`.
+* I can also work with design pattens and app architechture such as `MVC`, `MVP`, `MVVM`, and `MVI` app architechture, in other hand `Strucural patterns`.
 
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/103429590/222480699-30bc1b97-8ec8-4744-be7d-05242cd21556.gif)
