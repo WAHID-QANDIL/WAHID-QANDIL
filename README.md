@@ -13,7 +13,7 @@
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [Mail](mailto:wahidqandill@gmail.com)
-* 🚀  I'm currently working on [Student at Delta Technological University](https://dtu.edu.eg/en/home/)
+* 🚀  I'm currently working as Android Software Engineer 
 * 🧠  I'm Mobile App Developer
 * 🤝  I'm open to collaborating on android app development, Backend development, and IOS app development
 * 
