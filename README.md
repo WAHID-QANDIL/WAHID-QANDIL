@@ -30,33 +30,8 @@
 </table>
 <br>
 
-<a href = "https://cr-skills-chart-widget.azurewebsites.net/api/api?username=WAHID-QANDIL&skills=Kotlin,Android,Java,Ktor,SQL&show-other-skills=true"></a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WAHID-QANDIL" alt="WAHID-QANDIL"></a>
-
-**After I was dreaming about my bugs on my code are get solved and I wake up ==**
-
-![image](https://media.giphy.com/media/w82PMXQYEbSOYSE9rb/giphy-downsized-large.gif)
-
-
-<a href="https://www.github.com/WAHID-QANDIL" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/WAHID-QANDIL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/WAHID_QANDIL" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
-
-
-
-
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/WAHID-QANDIL/count.svg" />
-</p>
-
-
 
 
 
@@ -95,4 +70,26 @@ src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-t
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/WAHID-QANDIL/count.svg" />
+</p>
+
+
+**After I was dreaming about my bugs on my code are get solved and I wake up ==**
+
+![image](https://media.giphy.com/media/w82PMXQYEbSOYSE9rb/giphy-downsized-large.gif)
+
+
+<a href="https://www.github.com/WAHID-QANDIL" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/WAHID-QANDIL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/WAHID_QANDIL" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+
+
 
