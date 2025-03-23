@@ -18,17 +18,16 @@
 * 🤝  I'm open to collaborating on android app development, Backend development, and IOS app development
 * 
 ### **The first code that I've write**
-```
-#include <iostream>
-#include <string>
-using namespace std;
-
-int main() 
-{
-    cout << "Hello, World" << s;
-    return 0;
-}
-```
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WAHID-QANDIL&show_icons=true&theme=radical" alt="Bruno Henrique GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WAHID-QANDIL&theme=tokyonight">
+    </td>
+  </tr>
+</table>
 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WAHID-QANDIL" alt="WAHID-QANDIL"></a>
