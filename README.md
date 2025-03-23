@@ -10,6 +10,8 @@
 * 🚀  I'm currently working as Android Software Engineer 
 * 🧠  I'm Mobile App Developer
 * 🤝  I'm open to collaborating on android projects and any type of open source projects that related to Kotlin and Mobile Development
+* I love experimenting with new ideas and building applications that solve real problems. Check out my repositories to see my latest projects!
+
 
 * ## My Skills
 
@@ -27,6 +29,13 @@
 - **Gradle**: Automating builds and dependency management.
 - **Git**: Version control and collaboration using Git & GitHub.
 - **Coroutines & Flow**: Handling asynchronous operations and reactive streams elegantly.
+
+- ## Connect With Me
+
+Let's connect and build something awesome!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/wahid-qandil/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=about.me)]([https://yourportfolio.com](https://wahidqandil.vercel.app/))
 
 * ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/103429590/222480699-30bc1b97-8ec8-4744-be7d-05242cd21556.gif)
 <table>
@@ -51,13 +60,6 @@
 [![My Projects](https://img.shields.io/badge/Explore-My%20Projects-blue?style=for-the-badge&logo=github)](https://github.com/WAHID-QANDIL?tab=repositories)
 
 <br>
-I love experimenting with new ideas and building applications that solve real problems. Check out my repositories to see my latest projects!
-
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/WAHID#2754" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/WAHID.GOV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/WAHID-QANDIL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wahid-ali-37a99a226/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17538205/wahid-ali" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/WAHID_QANDIL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/channel/UCALgsT_X6eNv4iWkrX7TkuA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
