@@ -11,7 +11,7 @@
 
 
 
-* 🌍  I'm based in Egypt
+* 🌍  I'm based in EARTH
 * ✉️  You can contact me at [Mail](mailto:wahidqandill@gmail.com)
 * 🚀  I'm currently working as Android Software Engineer 
 * 🧠  I'm Mobile App Developer
