@@ -30,6 +30,7 @@
 </table>
 <br>
 
+<a href = "https://cr-skills-chart-widget.azurewebsites.net/api/api?username=WAHID-QANDIL&skills=Kotlin,Android,Java,Ktor,SQL&show-other-skills=true"></a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WAHID-QANDIL" alt="WAHID-QANDIL"></a>
 
