@@ -47,7 +47,7 @@
 
 I love experimenting with new ideas and building applications that solve real problems. Check out my repositories to see my latest projects!
 
-[![My Projects](https://img.shields.io/badge/Explore-My%20Projects-blue?style=for-the-badge&logo=github)](https://github.com/YourUsername?tab=repositories)
+[![My Projects](https://img.shields.io/badge/Explore-My%20Projects-blue?style=for-the-badge&logo=github)](https://github.com/WAHID-QANDIL?tab=repositories)
 
 ### Socials
 
