@@ -28,7 +28,15 @@
     </td>
   </tr>
 </table>
+<br>
 
+![image](https://github.com/user-attachments/assets/4010597d-27af-46fe-80f9-1f0e3b637508)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/126ddf2f-dfff-476f-95ea-27742d58310b)
+
+<br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WAHID-QANDIL" alt="WAHID-QANDIL"></a>
 
