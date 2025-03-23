@@ -43,9 +43,6 @@ Let's connect and build something awesome!
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WAHID-QANDIL&show_icons=true&theme=radical" alt="Bruno Henrique GitHub Stats">
     </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WAHID-QANDIL&theme=tokyonight">
-    </td>
   </tr>
 </table>
 <br>
