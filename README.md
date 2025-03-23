@@ -10,23 +10,8 @@
 * 🚀  I'm currently working as Android Software Engineer 
 * 🧠  I'm Mobile App Developer
 * 🤝  I'm open to collaborating on android projects and any type of open source projects that related to Kotlin and Mobile Development
-* ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/103429590/222480699-30bc1b97-8ec8-4744-be7d-05242cd21556.gif)
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WAHID-QANDIL&show_icons=true&theme=radical" alt="Bruno Henrique GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WAHID-QANDIL&theme=tokyonight">
-    </td>
-  </tr>
-</table>
-<br>
 
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WAHID-QANDIL" alt="WAHID-QANDIL"></a>
-
-## My Skills
+* ## My Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,11 +28,32 @@
 - **Git**: Version control and collaboration using Git & GitHub.
 - **Coroutines & Flow**: Handling asynchronous operations and reactive streams elegantly.
 
-## Projects
+* ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/103429590/222480699-30bc1b97-8ec8-4744-be7d-05242cd21556.gif)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WAHID-QANDIL&show_icons=true&theme=radical" alt="Bruno Henrique GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WAHID-QANDIL&theme=tokyonight">
+    </td>
+  </tr>
+</table>
+<br>
 
-I love experimenting with new ideas and building applications that solve real problems. Check out my repositories to see my latest projects!
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WAHID-QANDIL" alt="WAHID-QANDIL"></a>
+
+
+## Projects
+<br>
 
 [![My Projects](https://img.shields.io/badge/Explore-My%20Projects-blue?style=for-the-badge&logo=github)](https://github.com/WAHID-QANDIL?tab=repositories)
+
+<br>
+I love experimenting with new ideas and building applications that solve real problems. Check out my repositories to see my latest projects!
+
+
 
 ### Socials
 
