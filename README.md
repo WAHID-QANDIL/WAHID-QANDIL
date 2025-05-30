@@ -1,5 +1,10 @@
 
 
+<p align="center">
+  <a href="https://github.com/WAHID-QANDIL">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WAHID-QANDIL&theme=github_dark" alt="Profile Summary" />
+  </a>
+</p>
 
 
 
@@ -59,11 +64,6 @@ Let's connect and build something awesome!
 [![My Projects](https://img.shields.io/badge/Explore-My%20Projects-blue?style=for-the-badge&logo=github)](https://github.com/WAHID-QANDIL?tab=repositories)
 
 <br>
-<p align="center">
-  <a href="https://github.com/WAHID-QANDIL">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WAHID-QANDIL&theme=github_dark" alt="Profile Summary" />
-  </a>
-</p>
 
 ### Badges
 
