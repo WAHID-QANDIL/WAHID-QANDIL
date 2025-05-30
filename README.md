@@ -22,16 +22,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,sqlite,gradle,git,coroutines,flow" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,sqlite,gradle,git,coroutines,flow,compose,figma" alt="My Skills" />
   </a>
 </p>
-
-<div align="center">
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/64969cf6-85b6-4c82-b086-c38ce8a0ce4b" height="40" alt="Compose logo"  />
-  <img src="https://github.com/user-attachments/assets/c2a88203-f65e-43df-8fc6-8883ac79fb20" height="40" alt="Figma logo"  />
-  <img width="12" />
-</div>
 
 - **Kotlin**: Leveraging Kotlin’s modern features for clean, concise code.
 - **Android Studio & Android Development**: Crafting intuitive and scalable Android applications.
