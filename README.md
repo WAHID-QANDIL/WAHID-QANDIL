@@ -23,6 +23,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,sqlite,gradle,git,coroutines,flow" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="My Skills" />
+    
   </a>
 </p>
 
