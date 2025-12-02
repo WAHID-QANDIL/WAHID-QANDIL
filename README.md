@@ -80,12 +80,6 @@ Let's connect and build something awesome!
 
 <a href=#><img src="contributions.svg"></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/WAHID-QANDIL/count.svg" />
-</p>
-
-
 <a href="https://www.github.com/WAHID-QANDIL" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/WAHID-QANDIL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/WAHID_QANDIL" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
