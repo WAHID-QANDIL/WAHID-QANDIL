@@ -44,8 +44,7 @@ Let's connect and build something awesome!
 src="https://img.shields.io/github/followers/WAHID-QANDIL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/WAHID_QANDIL" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
-* ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/103429590/222480699-30bc1b97-8ec8-4744-be7d-05242cd21556.gif)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/158d98e2-117c-4c0d-b905-e9d9e5b572d5" />
 
 [](https://github-profile-trophy.vercel.app/?username=WAHID-QANDIL-ma&theme=onedark)
 <table>
