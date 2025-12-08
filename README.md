@@ -46,7 +46,10 @@ src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-t
 /></a>
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/158d98e2-117c-4c0d-b905-e9d9e5b572d5" />
 
-[](https://github-profile-trophy.vercel.app/?username=WAHID-QANDIL-ma&theme=onedark)
+
+![animation_500_kxa883sd](https://github.com/user-attachments/assets/4aa5906f-7107-4339-9742-ee9009122a40)
+
+
 <table>
   <tr>
     <td>
