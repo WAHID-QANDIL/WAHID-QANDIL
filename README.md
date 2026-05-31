@@ -7,16 +7,6 @@
 </p>
 
 
-
-
-
-* 🌍  I'm based in Earth
-* ✉️  You can contact me at [Mail](mailto:wahidqandill@gmail.com)
-* 🧠  I'm a Mobile App Developer
-* 🤝  I'm open to collaborating on android projects and any type of open source projects that related to Kotlin and Mobile Development
-*      I love experimenting with new ideas and building applications that solve real problems. Check out my repositories to see my latest projects!
-
-
 * ## My Skills
 
 <p align="center">
@@ -24,7 +14,6 @@
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,sqlite,gradle,git,coroutines,flow" alt="My Skills" />
   </a>
 </p>
-- ## Connect With Me
 
 Let's connect and build something awesome!
 
