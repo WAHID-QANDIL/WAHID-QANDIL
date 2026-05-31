@@ -7,7 +7,12 @@
 </p>
 
 
-* ## My Skills
+Android Software Engineer with solid expertise in Kotlin and native Android development, experienced in building scalable
+mobile applications using modern architectures such as Clean Architecture, MVVM, and MVI. Hands-on experience delivering
+production-style apps with a focus on performance, maintainability, QR-Code, Camera, WIFI-direct, and structured code design.
+Recently expanded into iOS development to strengthen cross-platform understanding while maintaining a primary focus on
+Android engineering. Seeking to contribute to a high impact team, build real-world products, and continue advancing in an
+Android focused role.
 
 <p align="center">
   <a href="https://skillicons.dev">
