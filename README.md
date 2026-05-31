@@ -23,14 +23,6 @@ src="https://img.shields.io/github/followers/WAHID-QANDIL?logo=github&style=for-
 src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WAHID-QANDIL&show_icons=true&theme=radical" alt="Bruno Henrique GitHub Stats">
-    </td>
-  </tr>
-</table>
 <br>
 
 
