@@ -24,16 +24,6 @@
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,sqlite,gradle,git,coroutines,flow" alt="My Skills" />
   </a>
 </p>
-
-- **Kotlin**: Leveraging Kotlin’s modern features for clean, concise code.
-- **Android Studio & Android Development**: Crafting intuitive and scalable Android applications.
-- **Java**: Utilizing Java for interoperability and legacy support.
-- **Firebase**: Integrating real-time databases, authentication, and cloud messaging.
-- **SQLite**: Managing local data storage with efficient database solutions.
-- **Gradle**: Automating builds and dependency management.
-- **Git**: Version control and collaboration using Git & GitHub.
-- **Coroutines & Flow**: Handling asynchronous operations and reactive streams elegantly.
-
 - ## Connect With Me
 
 Let's connect and build something awesome!
