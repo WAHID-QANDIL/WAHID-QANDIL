@@ -17,8 +17,9 @@ Android focused role.
 Let's connect and build something awesome!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wahid-qandil/)
-<br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=about.me)](https://portfolio-wahidqandil.vercel.app/) 
+<!-- <br> -->
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=about.me)](https://portfolio-wahidqandil.vercel.app/) 
 
 <br>
 <!-- <a href="https://www.github.com/WAHID-QANDIL" target="_blank" rel="noreferrer"><img -->
