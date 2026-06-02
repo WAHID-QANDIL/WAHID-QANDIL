@@ -26,6 +26,6 @@ src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-t
 <br>
 
 
-<a href="http://www.github.com/WAHID-QANDIL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WAHID-QANDIL&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <a href="http://www.github.com/WAHID-QANDIL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WAHID-QANDIL&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
-<a href=#><img src="contributions.svg"></a>
+<!-- <a href=#><img src="contributions.svg"></a> -->
