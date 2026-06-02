@@ -17,11 +17,14 @@ Android focused role.
 Let's connect and build something awesome!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wahid-qandil/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=about.me)](https://portfolio-wahidqandil.vercel.app/)
-<a href="https://www.github.com/WAHID-QANDIL" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/WAHID-QANDIL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/WAHID_QANDIL" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=about.me)](https://portfolio-wahidqandil.vercel.app/) 
+
+<br>
+<!-- <a href="https://www.github.com/WAHID-QANDIL" target="_blank" rel="noreferrer"><img -->
+<!-- src="https://img.shields.io/github/followers/WAHID-QANDIL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/WAHID_QANDIL" target="_blank" rel="noreferrer"><img -->
+<!-- src="https://img.shields.io/twitter/follow/WAHID_QANDIL?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" -->
+<!-- /></a> -->
 
 <br>
 
