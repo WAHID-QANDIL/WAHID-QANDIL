@@ -7,12 +7,10 @@
 </p>
 
 
-I'm an Android Software Engineer with solid expertise in Kotlin and native Android development, experienced in building scalable
-mobile applications using modern architectures such as Clean Architecture, MVVM, and MVI. Hands-on experience delivering
-production-style apps with a focus on performance, maintainability, QR-Code, Camera, WIFI-direct, and structured code design.
-Recently expanded into iOS development to strengthen cross-platform understanding while maintaining a primary focus on
-Android engineering. Seeking to contribute to a high impact team, build real-world products, and continue advancing in an
-Android focused role.
+Android Developer with hands-on experience building fast, scalable mobile applications using Kotlin and
+native Android. Passionate about writing clean, maintainable code and applying solid architectural principles to
+real-world problems. Eager to contribute to a collaborative team, ship products that make a real impact, and
+continue growing as an engineer.
 
 Let's connect and build something awesome!
 
