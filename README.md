@@ -15,6 +15,18 @@ continue growing as an engineer.
 Let's connect and build something awesome!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wahid-qandil/)
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WAHID-QANDIL/WAHID-QANDIL/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WAHID-QANDIL/WAHID-QANDIL/main/light.svg">
+  <img alt="Wahid Ali — Mobile Software Engineer" src="https://raw.githubusercontent.com/WAHID-QANDIL/WAHID-QANDIL/main/dark.svg">
+</picture>
+
+</div>
+
 <!-- <br> -->
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=about.me)](https://portfolio-wahidqandil.vercel.app/) 
